@@ -1,0 +1,28 @@
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+}
+
+.StripeElement {
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 12px;
+  border-radius: 4px;
+}
+
+    /* button {
+    width: 100%;
+    padding: 12px;
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    } */
+
+form.setStyle {
+    background: white;
+    width: 100%;
+    line-height: 4;
+    padding: 54px;
+}

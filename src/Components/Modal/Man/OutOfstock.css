@@ -1,0 +1,28 @@
+
+  .container1 {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .title1 {
+    margin-top: 20px;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  .text1 {
+    margin-top: 10px;
+    color: gray;
+    font-size: 18px;
+  }
+  .button1 {
+    margin-top: 25px;
+    padding: 12px 25px;
+    background-color: #ff6b6b;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+  }
